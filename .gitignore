@@ -1,2 +1,4 @@
 .vagrant
 Vagrant
+.vagrant.d
+_Book_k8sInfra-main
